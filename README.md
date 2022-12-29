@@ -1,6 +1,6 @@
 # Presentation
 
-![]([https://marurunk.github.io/data/icon.ico](https://pbs.twimg.com/profile_banners/1447368571454115842/1671350268/1500x500))
+![]([https://pbs.twimg.com/profile_banners/1447368571454115842/1671350268/1500x500])
 
 Hi, I'm an aspiring artist and programmer looking to become a cool Freelancer. I'm @marurunk and I specialize in creating digital art and building websites and applications using Python and JavaScript.
 
